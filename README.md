@@ -1,2 +1,3 @@
 # hello-world
 This is my first repository and i am following the tutorial provided by the github.
+I am Abdullah Fazli and this is my first try working with the Github and the git concept. The first thing i learnt is that Github is a project managements system specefically version managements system. In github we can work collabratively with other on a projcet and we can apply the changes to the main projcet. We can also write comments on the changes we bring to the project so other users in the project will be able to understand whant and why we have changed the prject. Furthermore, each change we bring in our project is called commint
